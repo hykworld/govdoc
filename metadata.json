@@ -1,0 +1,6 @@
+{
+  "name": "대한민국 공공정책·LH공고 수석 문서 분석기 (GovDoc AI)",
+  "description": "대한민국 공공 정책, 주거 복지(LH 등 임대주택 공고), 정부 보도자료를 유형별로 자동 분류하여 핵심 일정, 자격 요건, 수치 변화, 체크리스트를 정밀 분석하는 AI 수석 분석가 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
